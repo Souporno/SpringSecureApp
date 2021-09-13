@@ -5,4 +5,4 @@ CREATE TABLE USER(
  USERNAME VARCHAR(250),
  PASSWORD VARCHAR(250)
 );
-INSERT INTO USER VALUES(101, 'Spider Man', 'Web'), (103, 'Super Man', 'Fly');
+INSERT INTO USER VALUES(101, 'Spider Man', 'Web'), (103, 'Super Man', 'Fly'), (104, 'Souporno', '$2a$10$vkyNNL/GURVaUMz9eTGg2.iDu6y0AcIRQ/EOTs7mLWx4I0X3n/fcm');
